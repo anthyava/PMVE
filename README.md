@@ -8,7 +8,7 @@ To Update, Install HACS or Filebrowser, run the command below (or type update) i
 
 bash -c "$(wget -qLO - https://github.com/tteck/Proxmox/raw/main/ct/homeassistant-core.sh)"
 
-⚡ Default Settings: 1GB RAM - 8GB Storage - 2vCPU ⚡
+⚡ Default Settings: 2GB RAM - 8GB Storage - 2vCPU ⚡
 Home Assistant Interface: IP:8123
 
 ⚙️ Path to HA /config
