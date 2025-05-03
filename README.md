@@ -6,7 +6,7 @@ Requires PVE 8.2.2 with kernel 6.8.4-3-pve or newer
 To create a new Proxmox VE Home Assistant Core LXC, run the command below in the Proxmox VE Shell.
 To Update, Install HACS or Filebrowser, run the command below (or type update) in the LXC Console.
 
-bash -c "$(wget -qLO - https://github.com/tteck/Proxmox/raw/main/ct/homeassistant-core.sh)"
+bash -c "$(wget -qLO - https://github.com/anthyava/PMVE/raw/refs/heads/main/HA.sh)"
 
 ⚡ Default Settings: 2GB RAM - 8GB Storage - 2vCPU ⚡
 Home Assistant Interface: IP:8123
